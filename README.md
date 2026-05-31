@@ -19,7 +19,7 @@
 
 AI Engineer and Machine Learning specialist with hands-on experience developing and implementing AI models — from Computer Vision pipelines to Privacy-Preserving Federated Learning systems. Passionate about building intelligent systems that are robust, ethical, and impactful.
 
-Currently pursuing a **Bachelor's degree in Artificial Intelligence** at **PAF-IAST (Kamra)**, actively contributing to research at the intersection of Computer Vision, Deep Learning, and Distributed AI.
+Recently completed a **Bachelor's degree in Artificial Intelligence** at **PAF-IAST (Kamra)**, actively contributing to research at the intersection of Computer Vision, Deep Learning, and Distributed AI.
 
 **Actively seeking opportunities in:**
 - 🤖 AI/ML Engineering
