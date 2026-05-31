@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saifullah%20Sajid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20CV%20Researcher%20%7C%20Federated%20ML&descAlignY=55&descSize=16"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Object+Tracking;Federated+%26+Privacy-Preserving+ML;NLP+%7C+Transformers+%7C+GANs;Building+Intelligent+Systems+That+Matter" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1b2a,100:1a1a2e&height=200&section=header&text=Saifullah%20Sajid&fontSize=48&fontColor=00D4FF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20Researcher%20%E2%80%A2%20Federated%20ML%20Specialist&descAlignY=58&descSize=15&descColor=a0c4ff"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifullahsajid)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=00D4FF&center=true&vCenter=true&width=750&height=45&lines=🧠+Researching+Distractor-Aware+Memory+%26+Visual+Tracking;🔒+Building+Privacy-Preserving+Federated+Learning+Systems;👁️+Advancing+Computer+Vision+with+YOLO+%26+SAM+2;🤖+Designing+Transformer+%26+GAN-based+Architectures;📍+PAF-IAST+Kamra+%7C+Haripur%2C+Pakistan" alt="Typing SVG" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-ullah-sajid/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifullah2k3)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifullahsajid217@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=saifullah2k3&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/saifullah2k3)
 
 </div>
@@ -39,8 +41,8 @@ Recently completed a **Bachelor's degree in Artificial Intelligence** at **PAF-I
 ⏳  Focus    : AI/ML Engineering & Research
 🔬  Research :
       ➤ Distractor-Aware Memory (DAM)         [Co-Author]
-      ➤ Visual Object Tracking               
-      ➤ Federated Learning Systems           
+      ➤ Visual Object Tracking                
+      ➤ Federated Learning Systems            
 🧠  Core     :
       ➤ Privacy-Preserving / Federated ML
       ➤ Computer Vision — YOLO · SAM 2
@@ -61,8 +63,8 @@ Recently completed a **Bachelor's degree in Artificial Intelligence** at **PAF-I
 | # | Research Area | Role | Description |
 |---|--------------|------|-------------|
 | 01 | 🎯 **Distractor-Aware Memory (DAM)** | **Co-Author** | Memory-augmented tracking architecture resilient to visual distractors and occlusion |
-| 02 | 👁️ **Visual Object Tracking** | **Co-Author** | Real-time robust tracking under complex, challenging visual conditions |
-| 03 | 🔒 **Federated Learning Systems** | **Co-Author** | Decentralized, privacy-preserving distributed model training frameworks |
+| 02 | 👁️ **Visual Object Tracking** | **Project-member** | Real-time robust tracking under complex, challenging visual conditions |
+| 03 | 🔒 **Federated Learning Systems** | **Project-member** | Decentralized, privacy-preserving distributed model training frameworks |
 
 </div>
 
@@ -126,15 +128,15 @@ Recently completed a **Bachelor's degree in Artificial Intelligence** at **PAF-I
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saifullah2k3&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saifullah2k3&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah2k3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saifullah2k3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=saifullah2k3&theme=dark&hide_border=false"/>
+<img src="https://streak-stats.demolab.com/?user=saifullah2k3&theme=dark&hide_border=false"/>
 
 </div>
 
@@ -144,7 +146,7 @@ Recently completed a **Bachelor's degree in Artificial Intelligence** at **PAF-I
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saifullah2k3&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saifullah2k3&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -171,7 +173,7 @@ Recently completed a **Bachelor's degree in Artificial Intelligence** at **PAF-I
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-ullah-sajid/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifullahsajid217@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifullahsajid217@gmail.com)
 
 </div>
 
@@ -179,9 +181,11 @@ Recently completed a **Bachelor's degree in Artificial Intelligence** at **PAF-I
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0d1b2a,100:0a0a0a&height=120&section=footer"/>
 
 *"Advancing the frontiers of Machine Learning and Computer Vision — engineering systems that perceive, reason, and adapt intelligently."*
+
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=saifullah2k3&icon=0&color=0)](https://visitcount.itsvg.in)
 
