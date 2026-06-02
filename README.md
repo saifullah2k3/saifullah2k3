@@ -2,21 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saifullah%20Sajid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20CV%20Researcher%20%7C%20Federated%20ML&descAlignY=55&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Object+Tracking;Federated+%26+Privacy-Preserving+ML;NLP+%7C+Transformers+%7C+GANs;Building+Intelligent+Systems+That+Matter" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Object+Tracking;Federated+%26+Privacy-Preserving+ML;NLP+%7C+Transformers+%7C+GANs;Building+Intelligent+Systems+That+Matter" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=00D4FF&center=true&vCenter=true&width=750&height=45&lines=🧠+Researching+Distractor-Aware+Memory+%26+Visual+Tracking;🔒+Building+Privacy-Preserving+Federated+Learning+Systems;👁️+Advancing+Computer+Vision+with+YOLO+%26+SAM+2;🤖+Designing+Transformer+%26+GAN-based+Architectures;📍+PAF-IAST+Kamra+%7C+Haripur%2C+Pakistan" alt="Typing SVG" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-ullah-sajid/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifullahsajid)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifullah2k3)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifullahsajid217@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=saifullah2k3&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/saifullah2k3)
 
 </div>
-
 ---
 
 ## 💫 About Me
