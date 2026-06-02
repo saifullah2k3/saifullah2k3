@@ -1,17 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saifullah%20Sajid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20CV%20Researcher%20%7C%20Federated%20ML&descAlignY=55&descSize=16"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Object+Tracking;Federated+%26+Privacy-Preserving+ML;NLP+%7C+Transformers+%7C+GANs;Building+Intelligent+Systems+That+Matter" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1b2a,100:1a1a2e&height=200&section=header&text=Saifullah%20Sajid&fontSize=48&fontColor=00D4FF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20Researcher%20%E2%80%A2%20Federated%20ML%20Specialist&descAlignY=58&descSize=15&descColor=a0c4ff"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifullahsajid)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=00D4FF&center=true&vCenter=true&width=750&height=45&lines=🧠+Researching+Distractor-Aware+Memory+%26+Visual+Tracking;🔒+Building+Privacy-Preserving+Federated+Learning+Systems;👁️+Advancing+Computer+Vision+with+YOLO+%26+SAM+2;🤖+Designing+Transformer+%26+GAN-based+Architectures;📍+PAF-IAST+Kamra+%7C+Haripur%2C+Pakistan" alt="Typing SVG" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-ullah-sajid/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifullah2k3)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifullahsajid217@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=saifullah2k3&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/saifullah2k3)
 
 </div>
+
+---
 
 ## 💫 About Me
 
@@ -36,9 +40,10 @@ Recently completed a **Bachelor's degree in Artificial Intelligence** at **PAF-I
 📍  Location : Haripur, Pakistan 🇵🇰
 ⏳  Focus    : AI/ML Engineering & Research
 🔬  Research :
-      ➤ Distractor-Aware Memory (DAM)      
-      ➤ Visual Object Tracking                
-      ➤ Federated Learning Systems            
+      ➤ Distractor-Aware Memory (DAM)         [Co-Author]
+      ➤ Federated ML Infrastructure           [Project Member]
+      ➤ Real-Time CV Pipeline (YOLO + SAM 2)  [Project Member]
+      ➤ GAN Synthetic Data Engine             [Project Member]
 🧠  Core     :
       ➤ Privacy-Preserving / Federated ML
       ➤ Computer Vision — YOLO · SAM 2
@@ -51,11 +56,11 @@ Recently completed a **Bachelor's degree in Artificial Intelligence** at **PAF-I
 ```
 
 ---
+
 ## 🔬 Research & Signature Projects
 
 <details open>
 <summary><b>🚀 DAM — Distractor-Aware Memory for Visual Object Tracking &nbsp;|&nbsp; Co-Author Research</b></summary>
-
 <br/>
 
 > *One of the hardest open problems in visual tracking: objects that look like the target but aren't. DAM solves this.*
@@ -80,7 +85,6 @@ A novel tracking architecture introducing **memory-augmented attention** that dy
 
 <details>
 <summary><b>🔒 Federated ML Infrastructure &nbsp;|&nbsp; Privacy-Preserving Distributed Learning &nbsp;|&nbsp; Project Member</b></summary>
-
 <br/>
 
 > *Building distributed ML systems where data never leaves the device — privacy by design.*
@@ -104,12 +108,51 @@ A federated learning framework enabling multiple clients to collaboratively trai
 
 <details>
 <summary><b>🎯 Real-Time CV Pipeline — YOLO + SAM 2 &nbsp;|&nbsp; Production Computer Vision &nbsp;|&nbsp; Project Member</b></summary>
-
 <br/>
 
 > *Detection and segmentation unified into a single real-time production pipeline.*
 
 An end-to-end Computer Vision system combining YOLO-based object detection with SAM 2 segmentation for high-throughput, real-world scenarios. Engineered for low-latency inference with production-grade reliability.
+
+**Technical Highlights:**
+- YOLO-based detection feeding SAM 2 for precise instance segmentation
+- Optimized inference pipeline for real-time performance
+- Modular architecture supporting plug-and-play model upgrades
+
+![YOLO](https://img.shields.io/badge/YOLO-FF6B35?style=flat-square&logoColor=white)
+![SAM 2](https://img.shields.io/badge/SAM%202-0078D7?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Real-Time](https://img.shields.io/badge/Real--Time%20Inference-brightgreen?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Project%20Member-blue?style=flat-square)
+
+</details>
+
+---
+
+<details>
+<summary><b>🧬 GAN-Powered Synthetic Data Engine &nbsp;|&nbsp; Generative AI for Data Augmentation &nbsp;|&nbsp; Project Member</b></summary>
+<br/>
+
+> *When real-world data is scarce, generate it — intelligently.*
+
+A GAN-based generative system designed to synthesize high-fidelity training data for downstream Computer Vision tasks. Addresses class imbalance and data scarcity challenges in real-world ML pipelines.
+
+**Technical Highlights:**
+- Conditional GAN architecture for class-specific image synthesis
+- Quality evaluation via FID scores and downstream task performance
+- Integrated into data augmentation pipelines for CV model training
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![GANs](https://img.shields.io/badge/GANs-8B0000?style=flat-square&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF69B4?style=flat-square&logoColor=white)
+![Data Augmentation](https://img.shields.io/badge/Data%20Augmentation-FF8C00?style=flat-square&logoColor=white)
+![Role](https://img.shields.io/badge/Role-Project%20Member-blue?style=flat-square)
+
+</details>
+
+> 📌 *Research and projects conducted at PAF-IAST in collaboration with the AI research group.*
+
+---
 
 ## 💻 Tech Stack
 
