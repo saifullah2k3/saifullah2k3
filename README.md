@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saifullah%20Sajid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20CV%20Researcher%20%7C%20Federated%20ML&descAlignY=55&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Object+Tracking;Federated+%26+Privacy-Preserving+ML;NLP+%7C+Transformers+%7C+GANs;Building+Intelligent+Systems+That+Matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Object+Tracking;Federated+%26+Privacy-Preserving+ML;NLP+%7C+Transformers+%7C+GANs;Building+Intelligent+Systems+That+Matter" alt="" />
 
 <br/>
 
