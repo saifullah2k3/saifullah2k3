@@ -12,7 +12,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=saifullah2k3&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/saifullah2k3)
 
 </div>
----
 
 ## 💫 About Me
 
@@ -37,7 +36,7 @@ Recently completed a **Bachelor's degree in Artificial Intelligence** at **PAF-I
 📍  Location : Haripur, Pakistan 🇵🇰
 ⏳  Focus    : AI/ML Engineering & Research
 🔬  Research :
-      ➤ Distractor-Aware Memory (DAM)         [Co-Author]
+      ➤ Distractor-Aware Memory (DAM)      
       ➤ Visual Object Tracking                
       ➤ Federated Learning Systems            
 🧠  Core     :
@@ -52,22 +51,65 @@ Recently completed a **Bachelor's degree in Artificial Intelligence** at **PAF-I
 ```
 
 ---
+## 🔬 Research & Signature Projects
 
-## 🔬 Research & Publications
+<details open>
+<summary><b>🚀 DAM — Distractor-Aware Memory for Visual Object Tracking &nbsp;|&nbsp; Co-Author Research</b></summary>
 
-<div align="center">
+<br/>
 
-| # | Research Area | Role | Description |
-|---|--------------|------|-------------|
-| 01 | 🎯 **Distractor-Aware Memory (DAM)** | **Co-Author** | Memory-augmented tracking architecture resilient to visual distractors and occlusion |
-| 02 | 👁️ **Visual Object Tracking** | **Project-member** | Real-time robust tracking under complex, challenging visual conditions |
-| 03 | 🔒 **Federated Learning Systems** | **Project-member** | Decentralized, privacy-preserving distributed model training frameworks |
+> *One of the hardest open problems in visual tracking: objects that look like the target but aren't. DAM solves this.*
 
-</div>
+A novel tracking architecture introducing **memory-augmented attention** that dynamically encodes and suppresses distractor patterns across frames, maintaining robust target identity in high-clutter, real-world environments where conventional trackers fail.
 
-> 📌 *Co-authored research conducted at PAF-IAST.*
+**Technical Highlights:**
+- Memory module that retains long-term target appearance while selectively forgetting distractors
+- Attention-guided suppression of semantically similar but non-target objects
+- Benchmarked against state-of-the-art trackers with measurable precision & success rate gains
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0078D7?style=flat-square&logoColor=white)
+![Attention Mechanisms](https://img.shields.io/badge/Attention%20Mechanisms-1a1a2e?style=flat-square&logoColor=white)
+![Memory Networks](https://img.shields.io/badge/Memory%20Networks-4B0082?style=flat-square&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Published%20Research-brightgreen?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Co--Author-gold?style=flat-square)
+
+</details>
 
 ---
+
+<details>
+<summary><b>🔒 Federated ML Infrastructure &nbsp;|&nbsp; Privacy-Preserving Distributed Learning &nbsp;|&nbsp; Project Member</b></summary>
+
+<br/>
+
+> *Building distributed ML systems where data never leaves the device — privacy by design.*
+
+A federated learning framework enabling multiple clients to collaboratively train models without sharing raw data. Designed for real-world deployment with heterogeneous data distributions and communication-efficient aggregation strategies.
+
+**Technical Highlights:**
+- Implemented FedAvg and custom aggregation protocols for non-IID data
+- Privacy guarantees via differential privacy and secure aggregation
+- Scalable architecture tested across simulated distributed environments
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![Federated Learning](https://img.shields.io/badge/Federated%20Learning-0d1b2a?style=flat-square&logoColor=white)
+![Privacy Preserving](https://img.shields.io/badge/Privacy%20Preserving-006400?style=flat-square&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-4B0082?style=flat-square&logoColor=white)
+![Role](https://img.shields.io/badge/Role-Project%20Member-blue?style=flat-square)
+
+</details>
+
+---
+
+<details>
+<summary><b>🎯 Real-Time CV Pipeline — YOLO + SAM 2 &nbsp;|&nbsp; Production Computer Vision &nbsp;|&nbsp; Project Member</b></summary>
+
+<br/>
+
+> *Detection and segmentation unified into a single real-time production pipeline.*
+
+An end-to-end Computer Vision system combining YOLO-based object detection with SAM 2 segmentation for high-throughput, real-world scenarios. Engineered for low-latency inference with production-grade reliability.
 
 ## 💻 Tech Stack
 
