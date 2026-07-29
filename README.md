@@ -202,7 +202,24 @@ A GAN-based generative system designed to synthesize high-fidelity training data
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ---
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saifullah2k3&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah2k3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=saifullah2k3&theme=dark&hide_border=false"/>
+
+</div>
+
+
+---
 
 
 ## 🌐 Socials
