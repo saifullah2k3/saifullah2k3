@@ -203,44 +203,7 @@ A GAN-based generative system designed to synthesize high-fidelity training data
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saifullah2k3&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah2k3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=saifullah2k3&theme=dark&hide_border=false"/>
-
-</div>
-
-
----
-
-## 🏆 GitHub Trophies & Achievements
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saifullah2k3&theme=tokyonight&utcOffset=5"/>
-&nbsp;
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saifullah2k3&theme=tokyonight"/>
-
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 ## 🌐 Socials
 
